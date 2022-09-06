@@ -1,0 +1,110 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+h1{
+  margin: 50px auto 2.5rem auto;
+  font-family:  'PT Serif', serif;
+  color: #0A3F35;
+  font-size: 3.5rem;
+}
+.top-container{
+  position: relative;
+  padding-top: 100px;
+  background-color: #ACAFAE;
+}
+
+.top-pic{
+  padding-top: 10px;
+  border-radius: 50%;
+}
+
+
+h2{
+  margin: 30px auto 2.0rem;
+  font-family: 'Signika', sans-serif;
+  font-size: 2.5rem;
+}
+h3{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 1.5rem;
+}
+.causes{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.cause-1{
+  float: left;
+  margin-right: 80px;
+  width: 36%;
+}
+.cause-2{
+  float: right;
+  margin-left: 80px;
+  width: 35%;
+}
+.cause-3{
+  float: left;
+  margin-right: 80px;
+  width: 35%;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 10px;
+  width: 10%;
+  margin: 10px auto;
+}
+.mid{
+margin: auto;
+width: 50%;
+font-family:  'Fira Sans Extra Condensed', sans-serif;
+font-size: 1.2rem;
+}
+.affect{
+  margin: auto;
+  width: 50%;
+  font-family:  'Edu NSW ACT Foundation', cursive;
+  font-size: 1.2rem;
+  padding-top: 20px;
+}
+.affect-env{
+  float: left;
+  margin-right: 80px;
+  width: 35%;
+  border-radius: 30%;
+}
+.affect-on-env{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.effect-env{
+  font-family: 'Edu NSW ACT Foundation', cursive;
+  font-size: 1.3rem;
+}
+
+.law{
+  padding-top: 10px;
+  font-family:  'Satisfy', cursive;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 10px;
+}
+.bottom-container{
+  background-color: #B3CAD6;
+  margin: 50px auto 0;
+  padding: 50px 0 20px;
+}
+.footer-link{
+  margin: 20px 20px;
+  color: #0C384F;
+  font-family: 'Dancing Script', cursive;
+  text-decoration: none;
+  font-size: 2.5rem;
+}
+.footer-link:hover{
+  color: white;
+}
